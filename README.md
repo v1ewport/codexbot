@@ -1,6 +1,9 @@
 # codexbot
 A simple script to download World Digital Library books
 
+#REQUIREMENTS
+Python 3
+## `pip install -r requirements.txt`
 # HOW TO USE
 First look for the book index in the url of the World Digital Library item.
 Example:
