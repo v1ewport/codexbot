@@ -3,6 +3,8 @@ A simple script to download World Digital Library books
 
 # REQUIREMENTS
 Python 3
+urllib3
+colorama
 ## `pip install -r requirements.txt`
 # HOW TO USE
 First look for the book index in the url of the World Digital Library item.
